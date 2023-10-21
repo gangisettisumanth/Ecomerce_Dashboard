@@ -1,0 +1,25 @@
+.firstApp {
+    background: #ffffff !important;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Inter', sans-serif;
+    color: black;
+}
+
+.secondApp {
+    background-color: #ECFDF1;
+    display: grid;
+    height: 97%;
+    width: 97%;
+    border-radius: 2rem;
+    gap: 16px;
+    grid-template-columns: 11rem auto 20rem;
+    overflow: hidden;
+    margin: 10px;
+}
+
+/* .item{
+border: 2px solid black;
+} */
