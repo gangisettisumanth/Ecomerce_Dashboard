@@ -1,2 +1,2 @@
-# Ecomerce_Dashboard
+# Ecommerce_Dashboard
 React-JS , HTML, CSS, JS
